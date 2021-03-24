@@ -180,7 +180,7 @@ main h1 {
 
 .social-icons i:hover {
   background-color: white;
-  border: 1px solid var(--border-gray);
+  border: 2px solid var(--border-gray);
   cursor: pointer;
 }
 
