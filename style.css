@@ -170,7 +170,7 @@ main h1 {
   padding: 6px 7px;
   font-size: 15px;
   border-radius: 50%;
-  background-color: var(--subtle-gray);
+  background-color: rgb(235, 230, 230);
   box-sizing: border-box;
 }
 
