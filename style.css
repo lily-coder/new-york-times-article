@@ -250,6 +250,10 @@ footer {
   margin-bottom: 0.5vh;
 }
 
+.footer-nav li:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
 
 .logo-footer {
   grid-column: 1 / -2;
