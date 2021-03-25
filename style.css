@@ -196,6 +196,11 @@ main h1 {
   cursor: pointer;
 }
 
+.diagram-container {
+  width:800;
+  height:400;
+}
+
 /* Article */
 
 main p {
@@ -284,6 +289,7 @@ footer {
   text-transform: uppercase;
   font-weight: bold;
   margin-bottom: 1vh;
+  font-family: arial;
 }
 
 .li-special img {
@@ -292,9 +298,12 @@ footer {
   margin-right: 0.6vw;
 }
 
+
+
 .footer-info {
   margin-top: 1vh;
   text-align: center;
+  
 }
 
 .footer-info * {
@@ -323,4 +332,5 @@ footer {
   display: inline-block;
   margin-left: 8px;
   margin-right: 8px;
+  font-family: arial;
 }
